@@ -1,4 +1,4 @@
-Here’s a simple step-by-step guide to help you with how to run this Python code in your IDE:
+Step-by-step guide to help you with how to run this Python code in your IDE:
 
 1. Install Python
 Download and install Python from python.org. Make sure to check the box that says "Add Python to PATH" during installation.
